@@ -1,0 +1,22 @@
+{
+  "name": "hatfinder",
+  "version": "1.0.0",
+  "description": "Node.js exercise from Codecademy",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magickme/hatfinder.git"
+  },
+  "author": "Jason Louv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magickme/hatfinder/issues"
+  },
+  "homepage": "https://github.com/magickme/hatfinder#readme",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
